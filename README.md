@@ -65,7 +65,31 @@ Structure du projet:
 ![digita_bank](./captures/custControl.PNG)
 
 ## FrontEnd
-![digita_bank](./captures/frontend.PNG) 
+![digita_bank](./captures/frontend.PNG)
+## NavBar
+![digita_bank](./captures/nacbar.PNG)
+## Model
+![digita_bank](./captures/model.PNG)
+-Customer
+![digita_bank](./captures/account.PNG)
+-Account
+![digita_bank](./captures/customerMod.PNG)
+
+## Component
+-Liste des clients
+![digita_bank](./captures/customerList.PNG)
+
+-Ajouter clients
+![digita_bank](./captures/newCust.PNG)
+
+Compte détails et opérations
+![digita_bank](./captures/accounttt.PNG)
+
+
+
+
+
+
 
 
 
