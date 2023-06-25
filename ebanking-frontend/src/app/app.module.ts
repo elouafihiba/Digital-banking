@@ -1,10 +1,4 @@
-// @ts-ignore
-// @ts-ignore
-// @ts-ignore
-// @ts-ignore
-
-import { NgModule } from "@angular/core";
-// @ts-ignore
+import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
@@ -12,7 +6,6 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { CustomersComponent } from './customers/customers.component';
 import { AccountsComponent } from './accounts/accounts.component';
-// @ts-ignore
 import {ReactiveFormsModule} from "@angular/forms";
 import { NewCustomerComponent } from './new-customer/new-customer.component';
 import { CustomerAccountsComponent } from './customer-accounts/customer-accounts.component';
@@ -37,6 +30,4 @@ import { CustomerAccountsComponent } from './customer-accounts/customer-accounts
   providers: []
 
 });
-
-
 export class AppModule { }
