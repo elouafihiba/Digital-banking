@@ -62,14 +62,12 @@ Structure du projet:
 
 ### RestControllers
 ![digita_bank](./captures/bankControl.PNG)
-
 ![digita_bank](./captures/custControl.PNG)
-okok
-
-
-
 
 ## FrontEnd
+![digita_bank](./captures/frontend.PNG) 
+
+
 
 
 
