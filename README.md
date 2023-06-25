@@ -24,20 +24,47 @@ L'application se compose des couches suivantes :
 Structure du projet:
 ![digita_bank](./captures/back.PNG)
 
-### Services
-![digita_bank](./captures/)
-
-### Repositories
-![digita_bank](./captures/)
-
 ### Entities
-![digita_bank](./captures/)
+![digita_bank](./captures/enti1.PNG)
+![digita_bank](./captures/enti2.PNG)
+![digita_bank](./captures/enti3.PNG)
+![digita_bank](./captures/enti4.PNG)
+![digita_bank](./captures/enti5.PNG)
+### Repositories
+![digita_bank](./captures/repo1.PNG)
+![digita_bank](./captures/repo2.PNG)
+![digita_bank](./captures/repo3.PNG)
+
+### Services
+![digita_bank](./captures/service.PNG)
+![digita_bank](./captures/serviceImp1.PNG)
+![digita_bank](./captures/serviceImp2.PNG)
+![digita_bank](./captures/serviceImp3.PNG)
+![digita_bank](./captures/serviceImp4.PNG)
+![digita_bank](./captures/serviceImp5.PNG)
+
 
 ### DTOs
-![digita_bank](./captures/)
+![digita_bank](./captures/dtoAccount.PNG)
+![digita_bank](./captures/accOp.PNG)
+![digita_bank](./captures/dtoBank.PNG)
+![digita_bank](./captures/currentBnk.PNG)
+![digita_bank](./captures/dtoCust.PNG)
+![digita_bank](./captures/debitDTO.PNG)
+![digita_bank](./captures/savingBank.PNG)
+![digita_bank](./captures/transfertReq.PNG)
+
 
 ### Enums
-![digita_bank](./captures/structure.PNG)
+![digita_bank](./captures/enum1.PNG)
+![digita_bank](./captures/enum2.PNG)
+
+
+### RestControllers
+![digita_bank](./captures/bankControl.PNG)
+
+![digita_bank](./captures/custControl.PNG)
+okok
 
 
 
